@@ -1,0 +1,61 @@
+/* font-family: 'VT323', monospace;
+font-family: 'Rambla', sans-serif; */
+
+body{
+    background-color: #373a40;
+}
+
+/* Landing */
+.big-text{
+    font-family: 'VT323', monospace;
+    color: #19d3da;
+    text-align: center;
+    font-size: 400%;
+    padding-top: 3%;
+}
+
+.small-text{
+    font-family: 'Rambla', sans-serif;
+    color: #eeeeee;
+    text-align: center;
+    padding-bottom: 3%;
+
+}
+
+/* Piano */
+
+.piano{
+    text-align: center;
+}
+.key-i{
+    background-color: #eeeeee;
+    color: #373a40;
+    height: 16rem;
+}
+
+.key-icon-i{
+    margin-top: 12rem;
+}
+
+
+/* Footer */
+
+.footer-i{
+    margin-top: 1%;
+    text-align: center;
+    font-family: 'Rambla', sans-serif;
+    color: #eeeeee;
+    font-size: 80%;
+}
+
+.test{
+    font-family: 'Rambla', sans-serif;
+    color: #686d76;
+    text-align: center;
+    padding: 2%;
+    font-size: 90%;
+}
+
+.ifty{
+    color: #19d3da;
+}
